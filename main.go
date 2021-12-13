@@ -16,6 +16,6 @@ func main() {
 
 	empty_stack := crateemptystack()
 
-	fmt.Println("empty stack 1 :", empty_stack)
+	fmt.Println("empty stack  :", empty_stack)
 
 }
